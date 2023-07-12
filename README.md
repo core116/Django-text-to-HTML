@@ -1,7 +1,5 @@
 # HTML Text Translator 🚀
 
-![Project Banner]
-
 This is an interesting project that allows you to build an interface where you can specify plain text and generate an HTML web page with just a button click. 😊🔥 The web app simplifies the process of creating HTML documents by eliminating the need to manually write HTML tags, saving you time and effort. ⏰💪
 
 ## Features ✨
