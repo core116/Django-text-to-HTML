@@ -1,6 +1,6 @@
 # HTML Text Translator 🚀
 
-![Project Banner](https://example.com/project-banner.jpg)
+![Project Banner]
 
 This is an interesting project that allows you to build an interface where you can specify plain text and generate an HTML web page with just a button click. 😊🔥 The web app simplifies the process of creating HTML documents by eliminating the need to manually write HTML tags, saving you time and effort. ⏰💪
 
@@ -42,7 +42,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact 📬
 
 For any questions or feedback, please reach out to us at [devcore116@gmail.com](mailto:devcore116@gmail.com). 💬
-
----
-
-Replace the image URLs with the appropriate links for the project banner, screenshots, and your website. You can place the respective URL into the `src` attribute of the `![Image description](image-url)` Markdown image tags. Feel free to add or modify the emoticons as per your preference!
